@@ -1,0 +1,2 @@
+# MyScalaInterviewPractice
+practice code
